@@ -1,0 +1,32 @@
+{
+  "name": "my-next-app",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@emotion/react": "^11.14.0",
+    "@emotion/styled": "^11.14.1",
+    "@mui/material": "^7.3.6",
+    "apexcharts": "^5.3.4",
+    "next": "latest",
+    "react": "latest",
+    "react-apexcharts": "^1.7.0",
+    "react-dom": "latest",
+    "recharts": "^3.1.2",
+    "swr": "^2.3.6"
+  },
+  "devDependencies": {
+    "@tailwindcss/postcss": "^4.0.0",
+    "@types/node": "24.3.1",
+    "@types/react": "19.1.12",
+    "autoprefixer": "^10.4.15",
+    "postcss": "^8.4.31",
+    "tailwindcss": "^3.4.1",
+    "typescript": "^5.2.2"
+  }
+}

@@ -26,7 +26,7 @@ export default function ChatBot() {
   const [isTyping, setIsTyping] = useState(false);
   const dummyQuestions: CombinedInterface[] = [
     { questionbank: "What is your name?", answerbank: "My name is Abhishek" },
-    { questionbank: "How old are you?", answerbank: "I am 21 years old" },
+    { questionbank: "How old are you?", answerbank: "I am 21 years old" }, 
     { questionbank: "Where do you live?", answerbank: "I live in Phagwara" },
     { questionbank: "What is your profession?", answerbank: "I am a web developer" },
     { questionbank: "What is your favorite language?", answerbank: "I like JavaScript" },
